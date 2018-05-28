@@ -1,5 +1,7 @@
 # git-raw
 
+This is a fork of the repository created and maintained by my former research associate <strong>Ali Tofigh</strong>.
+
 A [Git](http://www.git-scm.com) plug-in for managing binary and/or large files.
 
 #### The problem:
